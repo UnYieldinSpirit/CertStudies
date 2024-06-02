@@ -1,0 +1,8 @@
+- [[cat]]
+- [[chmod]]
+- [[grep]]
+- [[head]]
+- [[tail]]
+- [[sudo]]
+- [[journalctrl]]
+- [[logger]]

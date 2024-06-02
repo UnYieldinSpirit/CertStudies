@@ -1,0 +1,1 @@
+It is good practice to change the default password before putting the system into use. It is also good practice to change the default usernames for admin accounts as well.

@@ -1,0 +1,1 @@
+Reduces the chances that a [[Threat]] will exploit a [[Vulnerability]]

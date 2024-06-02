@@ -1,0 +1,1 @@
+Resiliency methods help systems heal themselves or recover from faults with minimal downtime. They often use similar techniques that a highly available system uses.

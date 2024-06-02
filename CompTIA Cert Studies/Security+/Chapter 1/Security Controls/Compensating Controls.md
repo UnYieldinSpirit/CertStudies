@@ -1,0 +1,1 @@
+Alternative controls used instead of a primary control. For example, employees use a smart card for authentication. Since a new employee wouldn't have a smart card, they could be given a Time-Based One-Time Password (TOTP) until they receive a smart card.

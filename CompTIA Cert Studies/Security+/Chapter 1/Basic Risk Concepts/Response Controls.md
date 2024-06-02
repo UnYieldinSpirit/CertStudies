@@ -1,0 +1,1 @@
+Also known as incident response controls, are designed to prepare for security incidents and respond to them once they occur. Typically start with security policies, followed by training personnel on how to respond to incidents.

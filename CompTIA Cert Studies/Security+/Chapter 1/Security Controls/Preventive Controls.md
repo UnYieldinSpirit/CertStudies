@@ -1,0 +1,8 @@
+Designed to prevent security incidents. Here are some examples:
+	- [[Hardening]] - The process of making a system or application more secure than its default configuration. Uses a defense-in-depth strategy with layered security. Includes disabling unnecessary ports and services, implementing secure protocols, keeping a system patched, using strong passwords along with a robust password policy, and disabling default and unnecessary accounts
+	- Training - Ensuring users are aware of security vulnerabilities and [[threat]]s helps prevent incidents. When users understand how social engineers operate, they are less likely to be tricked.
+		- Uneducated users might be tricked into giving a social engineer their passwords, but educated users will see through the tactics and keep their passwords secure.
+	- Security Guards - Prevent and deter many attacks. For example, guards can prevent unauthorized access into secure areas of a building by verifying user identites
+	- Change management - Ensures changes don't result in unintended outages. Instead of admins making changes on the fly, they submit the change to a change management process.
+	- Account disablement policy - An account disablement policy ensures that user accounts are disabled when an employee leaves the organization.
+	- [[Intrusion Prevention System (IPS)]] - an IPS can block malicious traffic before it reaches a network. This prevent security incidents.

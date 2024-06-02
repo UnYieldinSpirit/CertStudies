@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "e278c07d541632e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7557f4e875df95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8553332bb3420ea6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0643676e0efc1d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "842f5e1cb0ed772f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f241696b7be705c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a93325f184a77e23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Definition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd0c4dd8f13876c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4db5f9946be13fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b002726225d64245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3797493450e7b71e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 2/Authentication Factors/Something You Have/Smart Card Authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecdd2b8f0f7a1b4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 2/Authentication Factors/Something You Have/Smart Card Authentication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "122b01589a878803",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6971ff3dd65ee98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 2/Authentication Factors/Something You Have/Smart Card Authentication.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "122b01589a878803",
+  "lastOpenFiles": [
+    "Documents/CompTIA_Security",
+    "Documents",
+    "Chapter 2/Authentication Factors/Something You Have/Something You Have.md",
+    "Authorization.md",
+    "Chapter 2/Authentication Factors/Something You Have/Token Key.md",
+    "Chapter 2/Authentication Factors/Something You Have/Time-based One-Time (TOTP).md",
+    "Chapter 2/Authentication Factors/Something You Have/Smart Cards.md",
+    "Chapter 2/Authentication Factors/Something You Have/Hash-based Messages.md",
+    "Chapter 2/Authentication Factors/Something You Have/HMAC-based One Time (HOTP).md",
+    "Chapter 2/Authentication Factors/Something You Have/Smart Card Authentication.md",
+    "Token Keys.md",
+    "Chapter 2/Authentication Factors/Something You Know/Something You Know.md",
+    "Chapter 2/Authentication Factors/Something You Know/Passwords.md",
+    "Chapter 2/Authentication Factors/Something You Know/Knowledge-Based Authentication (KBA).md",
+    "Chapter 2/Authentication Factors/Something You Know/Changing Default Passwords.md",
+    "Chapter 2/Authentication Factors/Something You Have",
+    "Implementing Account Lockout Policies.md",
+    "Chapter 2/Authentication Factors/Something You Know",
+    "Chapter 2/Authentication Factors/Comparing Authentication Factors.md",
+    "Chapter 2/Comparing Identification and AAA.md",
+    "Chapter 2/Authentication Factors",
+    "Identification.md",
+    "Chapter 2/Exploring Authentication Management.md",
+    "Chapter 1/CIA/Ensure Confidentiality.md",
+    "Chapter 1/Basic Risk Concepts/Basic Risk Concepts.md",
+    "Authentication.md",
+    "Chapter Exams/Chapter 1 Exam.md",
+    "Chapter 2",
+    "Chapter Exams",
+    "Chapter 1/Understanding Logs.md",
+    "syslog.md",
+    "Chapter 1/tracert and traceroute.md",
+    "Chapter 1/CIA",
+    "Images",
+    "Images/Pasted image 20240514141446.png",
+    "Chapter 1/Redundancy and Fault Tolerance",
+    "Chapter 1/Security Controls",
+    "Chapter 1/Untitled.canvas",
+    "Pasted image 20240514141451.png",
+    "Pasted image 20240514141453.png"
+  ]
+}

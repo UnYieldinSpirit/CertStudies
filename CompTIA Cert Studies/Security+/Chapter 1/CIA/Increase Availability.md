@@ -1,0 +1,1 @@
+[[Availability]] - indicates that data and services are available when needed

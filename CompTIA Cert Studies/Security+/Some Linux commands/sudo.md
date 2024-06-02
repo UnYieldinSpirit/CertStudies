@@ -1,0 +1,2 @@
+`sudo`
+Grants elevated privileges
